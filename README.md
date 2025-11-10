@@ -80,5 +80,3 @@ Developed an interactive Power BI dashboard with visuals for:
 📅 Project Year: 2025
 
 ---
-
-Would you like me to shorten this into a **one-paragraph portfolio-style README** (for GitHub or LinkedIn)?
